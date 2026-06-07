@@ -1,0 +1,11 @@
+{
+  "name": "Clean",
+  "font_name": "Arial",
+  "font_size": 48,
+  "primary_color": "#FFFFFF",
+  "outline_color": "#000000",
+  "hook_position": "top",
+  "hook_font_size": 36,
+  "hook_animation": "fade_in",
+  "caption_style": "karaoke"
+}

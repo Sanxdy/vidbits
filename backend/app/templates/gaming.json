@@ -1,0 +1,11 @@
+{
+  "name": "Gaming",
+  "font_name": "Impact",
+  "font_size": 56,
+  "primary_color": "#FFD700",
+  "outline_color": "#000000",
+  "hook_position": "center",
+  "hook_font_size": 42,
+  "hook_animation": "scale_up",
+  "caption_style": "karaoke"
+}
