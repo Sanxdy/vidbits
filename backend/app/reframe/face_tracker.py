@@ -68,7 +68,7 @@ class KalmanFilter2D:
         self.kf.predict()
         measurement = np.array([[x], [y]], dtype=np.float32)
         corrected = self.kf.correct(measurement)
-        return float(corrected[0][0]), float(corrected[1][0])
+        return float(corrected[0]), float(corrected[1])
 
 
 def detect_faces(frame: np.ndarray) -> list[FaceBox]:
